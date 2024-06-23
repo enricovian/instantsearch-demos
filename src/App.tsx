@@ -46,7 +46,7 @@ export function App() {
       <div className="container">
         <InstantSearch
           searchClient={searchClient}
-          indexName="avocadostore_products_de"
+          indexName="as_products_de"
           future={future}
           insights
         >
