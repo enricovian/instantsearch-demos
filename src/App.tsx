@@ -14,7 +14,6 @@ import {
 } from 'react-instantsearch';
 
 import { Panel } from './Panel';
-import { FilterSelector } from './FilterSelector';
 
 import type { Hit } from 'instantsearch.js';
 
