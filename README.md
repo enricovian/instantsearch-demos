@@ -1,10 +1,11 @@
-# custom-widget-config
+# conditional-facet
 
 _This project was generated with [create-instantsearch-app](https://github.com/algolia/instantsearch/tree/master/packages/create-instantsearch-app) by [Algolia](https://algolia.com)._
 
 ## About this demo
 
-React InstantSearch demo project, branches are used for different demos
+Facet only shown if some conditions are satisfied.
+For example, only if the proper country is selected, show the relevant "free shipping" facet.
 
 ## Get started
 

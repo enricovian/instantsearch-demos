@@ -54,6 +54,7 @@ em {
 }
 
 .search-panel__filters {
+  padding: 1rem;
   flex: 1;
 }
 
